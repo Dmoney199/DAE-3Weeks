@@ -1,0 +1,10 @@
+1: g
+2: g
+3: h
+4: Key.backspace
+5: Key.backspace
+6: Key.backspace
+7: Key.backspace
+8: s
+9: t
+10: e

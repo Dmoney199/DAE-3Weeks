@@ -1,0 +1,10 @@
+1: g
+2: h
+3: g
+4: h
+5: g
+6: h
+7: Key.enter
+8: j
+9: j
+10: Key.backspace
