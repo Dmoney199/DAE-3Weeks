@@ -1,0 +1,5 @@
+letters: 15
+numbers: 0
+special_keys: 2
+other_chars: 0
+total: 17
